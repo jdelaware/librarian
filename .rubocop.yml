@@ -1,2 +1,2 @@
-inherit_from:
-  - https://github.com/jdelaware/dotfiles/blob/master/.rubocop.yml
+inherit_from: ~/Repositories/dotfiles/.rubocop.yml
+
