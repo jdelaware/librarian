@@ -9,7 +9,5 @@ describe 'index books' do
     expect(page).to have_content('FCG Werther Library')
   end
 
-  it 'displays a book' do
-    # pending...
-  end
+  it 'displays a book'
 end
